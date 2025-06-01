@@ -1,1 +1,0 @@
-# stock_average_simulator
